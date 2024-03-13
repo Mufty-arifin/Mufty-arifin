@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking a job for **Frontend Develover**
 
-- 🌱 I’m currently learning **Reactjs, Redux**
+- 🌱 I’m currently learning **Reactjs, Redux, Nextjs**
 
 - 📫 How to reach me **arifinmufty@gmail.com**
 
