@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufty-arifin&label=Profile%20views&color=0e75b6&style=flat" alt="mufty-arifin" /> </p>
+<img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
 - 🔭 I’m currently looking a job for **Frontend Develover**
 
@@ -9,7 +10,6 @@
 
 - 📫 How to reach me **arifinmufty@gmail.com**
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-mufty-arifin-59586a26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mufty-arifin-59586a26a" height="30" width="40" /></a>
